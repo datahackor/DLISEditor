@@ -1,0 +1,171 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\CLSID\{A5014FCC-3455-4C1A-9489-009C2C1AA7E8}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISAttributeClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{A5014FCC-3455-4C1A-9489-009C2C1AA7E8}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISAttributeClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\Record\{6267DA18-1DB6-3AF2-A63C-9F90EE928E9B}\1.0.0.0]
+"Class"="Rp66COMLib.DLISLibRepCode_t"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\Record\{8D524E26-C271-361B-9814-937A30A1FD79}\1.0.0.0]
+"Class"="Rp66COMLib.RepCode_t"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{13C16CD0-0392-4470-838C-8E2B3A601309}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISAttributesClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{13C16CD0-0392-4470-838C-8E2B3A601309}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISAttributesClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{67D0A988-C8BF-4AEA-A4A3-C22E867010E5}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISObjectClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{67D0A988-C8BF-4AEA-A4A3-C22E867010E5}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISObjectClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{4C42D746-326B-43DB-A71E-1ECC6B5414E4}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISObjectsClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{4C42D746-326B-43DB-A71E-1ECC6B5414E4}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISObjectsClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{B125BBB0-5F4F-4CC7-AE72-022FBD1E978A}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISSetExportOptionsClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{B125BBB0-5F4F-4CC7-AE72-022FBD1E978A}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISSetExportOptionsClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{CE8D7F66-41CA-49B3-B1E8-91171AF035C0}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISSetClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{CE8D7F66-41CA-49B3-B1E8-91171AF035C0}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISSetClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{7DBC3238-C12D-4343-8334-D6B95347304D}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISSetsClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{7DBC3238-C12D-4343-8334-D6B95347304D}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISSetsClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{46F6A43F-B9A2-4D7B-804C-1DFF922F75A2}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISChannelClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{46F6A43F-B9A2-4D7B-804C-1DFF922F75A2}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISChannelClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{AC2C7290-E93F-44E9-B6FC-BA570DC14E06}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISChannelsClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{AC2C7290-E93F-44E9-B6FC-BA570DC14E06}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISChannelsClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{B94DB45C-5F81-4E03-AF71-AD487805EFB0}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISFrameExportOptionsClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{B94DB45C-5F81-4E03-AF71-AD487805EFB0}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISFrameExportOptionsClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{D44D6375-7B97-41BA-B953-C656F2C24652}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISFrameClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{D44D6375-7B97-41BA-B953-C656F2C24652}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISFrameClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{41FAF15F-CC1A-4323-B6D7-6E529C2B2B76}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISFramesClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{41FAF15F-CC1A-4323-B6D7-6E529C2B2B76}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISFramesClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{EC2386AC-54F6-4CC6-806B-8775F64C9EE6}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISObjectNameClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{EC2386AC-54F6-4CC6-806B-8775F64C9EE6}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISObjectNameClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{E38A7620-A032-460F-A92A-D7C33AE0D501}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISObjectRefClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{E38A7620-A032-460F-A92A-D7C33AE0D501}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISObjectRefClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{38C46F6F-0930-4DEC-B49C-29A49270F84B}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISDateClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{38C46F6F-0930-4DEC-B49C-29A49270F84B}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISDateClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{853C045E-4D0D-44F6-B20B-4C62136FEEE0}\InprocServer32]
+"Class"="Rp66COMLib.CSlbDLISFileClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+
+[HKEY_CLASSES_ROOT\CLSID\{853C045E-4D0D-44F6-B20B-4C62136FEEE0}\InprocServer32\1.0.0.0]
+"Class"="Rp66COMLib.CSlbDLISFileClass"
+"Assembly"="Interop.Rp66COMLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
