@@ -1,7 +1,7 @@
 Rp66File* pdlis_File = new Rp66File();
-			int result = 0;
-			{
-				// 演示代码
+int result = 0;
+{
+ // 写DLIS 文件 演示代码
 				result = pdlis_File->Open("22.dlis", Rp66File::AccessType::Write, "R66LIB-CLIENT", 1, 0, 0);
 				if (result == -1)
 					assert(false);
@@ -367,4 +367,4 @@ Rp66File* pdlis_File = new Rp66File();
 				}
 				pdlis_File->Close();
 
-			}
+}
